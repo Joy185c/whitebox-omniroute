@@ -1,0 +1,15 @@
+{
+  "name": "whitebox-omniroute",
+  "version": "1.0.0",
+  "description": "OmniRoute deployment for WhiteBox AI",
+  "scripts": {
+    "start": "omniroute serve",
+    "build": "echo 'No build step needed'"
+  },
+  "dependencies": {
+    "omniroute": "3.8.51"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
